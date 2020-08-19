@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Roberta De Viti
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Max Planck Institute for Software Systems (MPI-SWS)
+  url: "https://www.mpi-sws.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include (...)
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Distributed Systems
+- Mobile Systems
+- Security and Privacy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Computer Engineering
+    institution: Universita' degli Studi di Napoli "Federico II"
+  - course: BSc in Computer Engineering
+    institution: Universita' degli Studi di Napoli "Federico II"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +39,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rdeviti-at-mpi-sws.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: "https://twitter.com/rdeviti"
+#- icon: skype
+#  icon_pack: fab
+#  link: roberta.de.viti
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +60,19 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<div style="text-align: justify;">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a 2nd year PhD student at the <b>Max Planck Institute for Software Systems</b> (<a href="https://www.mpi-sws.org">MPI-SWS</a>).
+
+I work in the Distributed Systems and Security & Privacy groups, where I am co-advised by <a href="https://people.mpi-sws.org/~druschel/">Peter Druschel</a> and <a href="https://people.mpi-sws.org/~dg/">Deepak Garg</a>. So it probably goes without saying, but I'm broadly interested in distributed systems, mobile systems, and security and privacy. In particular, I enjoy designing, building and analyzing <b>secure</b>  and <b>privacy-preserving distributed systems</b>.
+
+At the beginning of my PhD, I collaborated to Pacer, a project aimed to ensure data privacy in Cloud services against network side-channel leaks, and I worked on enClosure, a project on secure and private communication enabled by chains of mobile encounters. Currently, my advisors, teammates and I have been working on designing and building a <b>highly secure platform</b> for <b>epidemic analytics</b>, which might come in handy during a pandemic…
+
+Besides research, I'm quite enthusiastic about a bunch of things: traveling, cinema, books, comics, food, complaining, and complaining about food -- especially if claimed to be Italian. I also enjoy learning new things: right now I'm trying (and failing) to learn Deutsch!
+
+</div>
