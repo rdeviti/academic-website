@@ -4,9 +4,9 @@
 title: "ProLoc"
 summary: "
   A system that analyses location and encounters data,
-  adjustes devices' self-reported GPS locations / trajectories thanks to close-range encounters information
+  adjusts devices' self-reported GPS locations / trajectories thanks to close-range encounters information
   and physical validity checks,
-  and computes a confidence score associated to devices' locations at given points in time, 
+  and computes a confidence score associated with devices' locations at given points in time, 
   which can also be useful to identify fake data uploads and to protect against Sybil attacks. "
 authors: []
 tags: []
