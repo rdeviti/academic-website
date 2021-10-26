@@ -46,7 +46,7 @@ design:
   <ul style="margin-top:1.5em">
   <i class="fas fa-beer" style="margin-right:0.5em"></i>
   <i>SOSP '21</i>
-  <b style="margin-left:0.7em">Systems Trivia Night</b>
+  <b style="margin-left:0.4em"><a href="https://systemstrivia.github.io">Systems Trivia Night</a></b>
   <p><i>Co-host and co-organizer with <a href="https://vaastavanand.com">Vaastav Anand</a> and <a href="https://people.mpi-sws.org/~jcmace/">Jonathan Mace</a></i/p>
   </ul>
   <ul>
