@@ -1,5 +1,5 @@
 ---
-title: "Listening to Bluetooth beacons for epidemic risk mitigation"
+title: "Listening to Bluetooth Beacons for Epidemic Risk Mitigation"
 date: 2021-01-01
 publishDate: 2021-01-21T02:55:51.384460Z
 authors: ["Gilles Barthe", "Roberta De Viti", "Peter Druschel", "Deepak Garg", "Manuel Gomez-Rodriguez", "Pierfrancesco Ingo", "Heiner Kremer", "Matthew Lentz", "Lars Lorch", "Aastha Mehta", "Bernhard Schölkopf"]
