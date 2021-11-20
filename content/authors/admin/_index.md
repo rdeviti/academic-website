@@ -71,8 +71,7 @@ I'm a 3rd year PhD student at the <b>Max Planck Institute for Software Systems</
 
 I work in the Distributed Systems and Security & Privacy groups, where I am co-advised by <a href="https://people.mpi-sws.org/~druschel/">Peter Druschel</a> and <a href="https://people.mpi-sws.org/~dg/">Deepak Garg</a>. So it probably goes without saying, but I'm broadly interested in distributed systems, mobile systems, and security and privacy. In particular, I enjoy designing, building, and analyzing <b>secure</b>  and <b>privacy-preserving distributed systems</b>.
 
-At the beginning of my PhD, I collaborated on Pacer, a project aimed to ensure data privacy in Cloud services against network side-channel leaks, and I worked on enClosure, a project on secure and private communication enabled by chains of mobile encounters. Currently, my advisors, teammates, and I have been working on designing and building a <b>highly secure platform</b> for <b>epidemic analytics</b>, which might come in handy during a pandemic... At the same time, I'm also working on a project that offers a novel location-proof service for mobile devices.
+At the beginning of my PhD, I collaborated on Pacer, a project aimed to ensure data privacy in Cloud services against network side-channel leaks, and I worked on enClosure, a project on secure and private communication enabled by chains of mobile encounters. Currently, my advisors, teammates, and I have been working on designing and building a <b>highly secure platform</b> for <b>high-stakes analytics</b>, which might come in handy during a pandemic. At the same time, we are working on a novel <b>location-proof service</b> for mobile devices. 
 
 Besides research, I'm quite enthusiastic about a bunch of things: traveling, cinema, books, comics, food, complaining, and complaining about food -- especially if claimed to be Italian. I also enjoy learning new things: right now I'm trying (and failing) to learn Deutsch!
-
 </div>
