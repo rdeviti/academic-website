@@ -45,26 +45,26 @@ design:
 <h3 style="margin-left:0.3em; margin-top:2em">Event Organizer</h3>
   <ul style="margin-top:1.5em">
   <i class="fas fa-beer" style="margin-right:0.5em"></i>
-  <i>SOSP '21</i>
+  <a href="https://sosp2021.mpi-sws.org"><i>SOSP '21</i></a>
   <b style="margin-left:0.4em"><a href="https://systemstrivia.github.io">Systems Trivia Night</a></b>
   <p><i>Co-host and co-organizer with <a href="https://vaastavanand.com">Vaastav Anand</a> and <a href="https://people.mpi-sws.org/~jcmace/">Jonathan Mace</a></i/p>
   </ul>
   <ul>
   <i class="fas fa-beer" style="margin-right:0.5em"></i>
-  <i> HotOS '21 </i>
+  <a href="https://sigops.org/s/conferences/hotos/2021/"><i> HotOS '21 </i></a>
   <b style="margin-left:0.4em"><a href="https://systemstrivia.github.io">Systems Trivia Night</a></b>
   <p><i>Co-host and co-organizer with <a href="https://vaastavanand.com">Vaastav Anand</a> and <a href="https://people.mpi-sws.org/~jcmace/">Jonathan Mace</a></i/p>
   </ul>
 
-<h3 style="margin-left:0.3em; margin-top:2em">Sub-Reviewer</h3>
+<h3 style="margin-left:0.3em; margin-top:2em">External Reviewer</h3>
   <ul style="margin-top:1.5em">
   <i class="fas fa-paper-plane" style="margin-right:0.5em"></i>
-  USENIX Security '22
-  <i style="margin-left:0.7em">(Incoming)</i>
+  <a href="https://www.usenix.org/conference/usenixsecurity22">USENIX Security '22</a>
+  <i style="margin-left:0.7em">(Winter deadline, incoming)</i>
   </ul><ul style="margin-top:-0.3em">
   <i class="fas fa-paper-plane" style="margin-right:0.5em"></i>
-   EuroSys '22
-  <i style="margin-left:0.4em">(Incoming)</i>
+  <a href="https://www.usenix.org/conference/usenixsecurity22">USENIX Security '22</a>
+  <i style="margin-left:0.4em">(Fall deadline)</i>
   </ul>
 
 </div>

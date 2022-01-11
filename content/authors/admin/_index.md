@@ -67,7 +67,7 @@ email: ""
 
 <div style="text-align: justify;">
 
-I'm a 3rd year PhD student at the <b>Max Planck Institute for Software Systems</b> (<a href="https://www.mpi-sws.org">MPI-SWS</a>).
+I'm a 3rd year PhD student at the <b>Max Planck Institute for Software Systems</b> (<a href="https://www.mpi-sws.org">MPI-SWS</a>). And I'm currently looking for summer internships, just so you know!
 
 I work in the Distributed Systems and Security & Privacy groups, where I am co-advised by <a href="https://people.mpi-sws.org/~druschel/">Peter Druschel</a> and <a href="https://people.mpi-sws.org/~dg/">Deepak Garg</a>. So it probably goes without saying, but I'm broadly interested in distributed systems, mobile systems, and security and privacy. In particular, I enjoy designing, building, and analyzing <b>secure</b>  and <b>privacy-preserving distributed systems</b>.
 
