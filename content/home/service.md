@@ -59,12 +59,15 @@ design:
 <h3 style="margin-left:0.3em; margin-top:2em">External Reviewer</h3>
   <ul style="margin-top:1.5em">
   <i class="fas fa-paper-plane" style="margin-right:0.5em"></i>
-  <a href="https://www.usenix.org/conference/usenixsecurity22">USENIX Security '22</a>
-  <i style="margin-left:0.7em">(Winter deadline, incoming)</i>
-  </ul><ul style="margin-top:-0.3em">
-  <i class="fas fa-paper-plane" style="margin-right:0.5em"></i>
-  <a href="https://www.usenix.org/conference/usenixsecurity22">USENIX Security '22</a>
-  <i style="margin-left:0.4em">(Fall deadline)</i>
+  <a href="https://www.usenix.org/conference/usenixsecurity23">32nd USENIX Security Symposium (2023)</a>
+  <i style="margin-left:0.7em">(incoming)</i>
+  <ul style="margin-top:0.3em">
+  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2.2em"></i>
+  <a href="https://www.ieee-security.org/TC/SP2023/index.html">44th IEEE Symposium on Security & Privacy (2023)</a>
+  <i style="margin-left:0.7em">(incoming)</i>
+  </ul><ul style="margin-top:0.3em">
+  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2.2em"></i>
+  <a href="https://www.usenix.org/conference/usenixsecurity22">31st USENIX Security Symposium (2022)</a>
   </ul>
 
 </div>
