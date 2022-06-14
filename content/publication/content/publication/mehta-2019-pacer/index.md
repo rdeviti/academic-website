@@ -1,6 +1,6 @@
 ---
 title: "Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud"
-date: 2021-02-01
+date: 2021-11-01
 publishDate: 2020-07-29T00:17:36.683822Z
 authors: ["Aastha Mehta", "Mohamed Alzayat", "Roberta De Viti", "Björn B Brandenburg", "Peter Druschel", "Deepak Garg"]
 publication_types: ["1"]
