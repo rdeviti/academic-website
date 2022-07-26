@@ -44,29 +44,36 @@ design:
  
 <h3 style="margin-left:0.3em; margin-top:2em">Event Organizer</h3>
   <ul style="margin-top:1.5em">
-  <i class="fas fa-beer" style="margin-right:0.5em"></i>
-  <a href="https://sosp2021.mpi-sws.org"><i>SOSP '21</i></a>
-  <b style="margin-left:0.4em"><a href="https://systemstrivia.github.io">Systems Trivia Night</a></b>
-  <p><i>Co-host and co-organizer with <a href="https://vaastavanand.com">Vaastav Anand</a> and <a href="https://people.mpi-sws.org/~jcmace/">Jonathan Mace</a></i/p>
+  <i class="fas fa-school" style="margin-right:0.5em"></i>
+  <a href="https://cmmrs.mpi-sws.org"><i>CMMRS '22</i></a>
+  <b style="margin-left:0.4em">The Cornell, Maryland, Max Planck Pre-doctoral Research School</b>
+  <p><i>Member of the Organizing Committee</i/p>
   </ul>
   <ul>
-  <i class="fas fa-beer" style="margin-right:0.5em"></i>
+  <ul style="margin-top:1.5em">
+  <i class="fa fa-beer" style="margin-right:0.5em; margin-left:-1cm"></i>
+  <a href="https://sosp2021.mpi-sws.org"><i>SOSP '21</i></a>
+  <b style="margin-left:0.4em"><a href="https://systemstrivia.github.io">Systems Trivia Night</a></b>
+  <p style="margin-left:-1cm"><i>Co-host and co-organizer with <a href="https://vaastavanand.com">Vaastav Anand</a> and <a href="https://people.mpi-sws.org/~jcmace/">Jonathan Mace</a></i/p>
+  </ul>
+  <ul>
+  <i class="fas fa-beer" style="margin-right:0.5em; margin-left:-1cm"></i>
   <a href="https://sigops.org/s/conferences/hotos/2021/"><i> HotOS '21 </i></a>
   <b style="margin-left:0.4em"><a href="https://systemstrivia.github.io">Systems Trivia Night</a></b>
-  <p><i>Co-host and co-organizer with <a href="https://vaastavanand.com">Vaastav Anand</a> and <a href="https://people.mpi-sws.org/~jcmace/">Jonathan Mace</a></i/p>
+  <p style="margin-left:-1cm"><i>Co-host and co-organizer with <a href="https://vaastavanand.com">Vaastav Anand</a> and <a href="https://people.mpi-sws.org/~jcmace/">Jonathan Mace</a></i/p>
   </ul>
 
-<h3 style="margin-left:0.3em; margin-top:2em">External Reviewer</h3>
+<h3 style="margin-left:-0.6cm; margin-top:2em">External Reviewer</h3>
   <ul style="margin-top:1.5em">
-  <i class="fas fa-paper-plane" style="margin-right:0.5em"></i>
+  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-0.99cm"></i>
   <a href="https://www.usenix.org/conference/usenixsecurity23">32nd USENIX Security Symposium (2023)</a>
   <i style="margin-left:0.7em">(incoming)</i>
   <ul style="margin-top:0.3em">
-  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2.2em"></i>
+  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2cm"></i>
   <a href="https://www.ieee-security.org/TC/SP2023/index.html">44th IEEE Symposium on Security & Privacy (2023)</a>
   <i style="margin-left:0.7em">(incoming)</i>
   </ul><ul style="margin-top:0.3em">
-  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2.2em"></i>
+  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2cm"></i>
   <a href="https://www.usenix.org/conference/usenixsecurity22">31st USENIX Security Symposium (2022)</a>
   </ul>
 
