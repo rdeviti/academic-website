@@ -9,5 +9,5 @@ abstract: "Under Submission -- In a secure analytics platform, data sources cons
 CoVault uses a new implementation of functional encryption (FE) for secure analytics, which relies on a unique combination of secret sharing, multi-party secure computation (MPC), and different trusted execution environments (TEE). It is secure under a very strong threat model that tolerates the failure of, and side-channel attacks on, any one TEE, and can therefore enable analytics on sensitive data not previously possible. Despite the cost of MPC, we show that CoVault scales to very large data sizes using map-reduce based query parallelization. For example, we show that CoVault can perform queries relevant to epidemic analytics at scale."
 featured : true
 publication : "Under submission"
-url_pdf : "https://rdeviti.netlify.app/publication/content/publication/de-viti-2022-covault/covault.pdf"
+url_pdf : "https://arxiv.org/pdf/2208.03784.pdf"
 ---

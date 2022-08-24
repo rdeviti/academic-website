@@ -50,7 +50,7 @@ design:
   <p><i>Member of the Organizing Committee</i/p>
   </ul>
   <ul>
-  <ul style="margin-top:1.5em">
+  <ul style="margin-top:1.2em">
   <i class="fa fa-beer" style="margin-right:0.5em; margin-left:-1cm"></i>
   <a href="https://sosp2021.mpi-sws.org"><i>SOSP '21</i></a>
   <b style="margin-left:0.4em"><a href="https://systemstrivia.github.io">Systems Trivia Night</a></b>
@@ -67,7 +67,7 @@ design:
   <ul style="margin-top:1.5em">
   <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-0.99cm"></i>
   <a href="https://www.usenix.org/conference/usenixsecurity23">32nd USENIX Security Symposium (2023)</a>
-  <i style="margin-left:0.7em">(incoming)</i>
+  <i style="margin-left:0.7em"></i>
   <ul style="margin-top:0.3em">
   <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2cm"></i>
   <a href="https://www.ieee-security.org/TC/SP2023/index.html">44th IEEE Symposium on Security & Privacy (2023)</a>
