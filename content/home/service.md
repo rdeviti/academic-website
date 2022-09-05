@@ -71,7 +71,7 @@ design:
   <ul style="margin-top:0.3em">
   <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2cm"></i>
   <a href="https://www.ieee-security.org/TC/SP2023/index.html">44th IEEE Symposium on Security & Privacy (2023)</a>
-  <i style="margin-left:0.7em">(incoming)</i>
+  <i style="margin-left:0.7em"></i>
   </ul><ul style="margin-top:0.3em">
   <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2cm"></i>
   <a href="https://www.usenix.org/conference/usenixsecurity22">31st USENIX Security Symposium (2022)</a>
