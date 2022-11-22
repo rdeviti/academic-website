@@ -10,4 +10,5 @@ CoVault uses a new implementation of functional encryption (FE) for secure analy
 featured : true
 publication : "Under submission"
 url_pdf : "https://arxiv.org/pdf/2208.03784.pdf"
+url_poster : "covault_poster.pdf"
 ---
