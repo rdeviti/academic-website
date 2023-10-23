@@ -69,7 +69,7 @@ email: ""
 
 <div style="text-align: justify;">
 
-I'm a PhD student at the <b>Max Planck Institute for Software Systems</b> (<a href="https://www.mpi-sws.org">MPI-SWS</a>).
+I'm a PhD student at the <b>Max Planck Institute for Software Systems</b> (<a href="https://www.mpi-sws.org">MPI-SWS</a>), in Germany.
 
 I work in the Distributed Systems and Security & Privacy groups, where I am co-advised by <a href="https://people.mpi-sws.org/~druschel/">Peter Druschel</a> and <a href="https://people.mpi-sws.org/~dg/">Deepak Garg</a>. I am broadly interested in designing, building, and analyzing <b>secure</b> and <b>privacy-preserving distributed systems</b>. In particular, I am studying cryptographic techniques that run computation on sensitive private data; my research focus is to apply these techniques to real-world large-scale distributed systems, and to explore the consequent trade-offs between security, efficiency, and functionality.
 
