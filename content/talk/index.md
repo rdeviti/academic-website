@@ -11,7 +11,7 @@ locations:
   date: '2023-07-05'
 - location: Brown University, Providence, RI, US
   date: '2023-06-30'
-- location: MIT CSAIL Security Seminar @ MIT, Cambdridge, MA, US
+- location: MIT CSAIL Security Seminar @ MIT, Cambridge, MA, US
   date: '2023-06-28'
 - location: Northeastern University, Boston, MA, US
   date: '2023-06-26'
