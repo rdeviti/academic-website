@@ -20,8 +20,8 @@
 {{ end }}
 
 <div class="card-simple">
-
   {{ if eq $item.Type "talk" }}
+  {{/*
   <div class="article-metadata">
     {{ if $item.Params.authors }}
     <div>
@@ -36,6 +36,7 @@
     <span>{{ . }}</span>
     {{ end }}
   </div>
+  */}}
   {{ else }}
     {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
   {{ end }}
@@ -59,6 +60,23 @@
       <p>{{.}}</p>
     </div>
   </a>
+  {{ end }}
+
+  {{ if eq $item.Type "talk" }}
+  <div><h4>Locations:</h4></div>
+  <div class="stream-meta article-metadata">
+    {{ with $item.Params.locations }}
+    <ul>
+      {{ range $location := . }}
+        <li>
+          {{ partial "functions/get_talk_dates.html" $location }}
+          <span class="middot-divider"></span>
+          {{ $location.location }}
+        </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
   {{ end }}
 
   {{ if $show_buttons }}

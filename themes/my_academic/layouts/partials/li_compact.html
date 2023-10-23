@@ -49,12 +49,16 @@
 
       {{ if eq $item.Type "talk" }}
       <div>
-        <span>
-          {{ partial "functions/get_event_dates" $item }}
-        </span>
-        {{ with $item.Params.location }}
-        <span class="middot-divider"></span>
-        <span>{{ . }}</span>
+        {{ with $item.Params.locations }}
+        <ul>
+          {{ range $location := . }}
+            <li>
+              {{ partial "functions/get_talk_dates.html" $location }}
+              <span class="middot-divider"></span>
+              {{ $location.location }}
+            </li>
+          {{ end }}
+        </ul>
         {{ end }}
       </div>
       {{ end }}

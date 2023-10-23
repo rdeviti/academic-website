@@ -1,0 +1,10 @@
+{{/* Custom date parser */}}
+{{/* $locationDate := "Jan 02, 2006 03:04 PM" */}}
+{{ $locationDate := "Jan 02, 2006" }}
+{{ with .date }}
+  {{ $parsedDate := time . }}
+  {{ $formattedDate := $parsedDate.Format $locationDate }}
+  {{ $formattedDate }}
+{{ else }}
+  Date not available
+{{ end }}
