@@ -9,7 +9,7 @@ abstract: "MobiSys 2019 -- New applications enabled by personal smart devices an
 featured: true
 publication: "*Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys '19)*"
 url_pdf : "https://dl.acm.org/doi/pdf/10.1145/3307334.3326101"
-url_code : "https://gitlab.rts.mpi-sws.org/encounters/ebc"
+url_code : "https://gitlab.mpi-sws.org/rdeviti/ebc"
 url_poster : "https://rdeviti.netlify.app/publication/content/publication/tsai-2019-enclosure/enclosure_poster.pdf"
 ---
 

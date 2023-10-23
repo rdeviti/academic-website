@@ -21,9 +21,11 @@ organizations:
 bio: My research interests include (...)
 
 interests:
+- Security and Privacy
+- Applied Cryptography
+- Multi-Party Computation
 - Distributed Systems
 - Mobile Systems
-- Security and Privacy
 
 education:
   courses:
@@ -69,11 +71,11 @@ email: ""
 
 I'm a PhD student at the <b>Max Planck Institute for Software Systems</b> (<a href="https://www.mpi-sws.org">MPI-SWS</a>).
 
-I work in the Distributed Systems and Security & Privacy groups, where I am co-advised by <a href="https://people.mpi-sws.org/~druschel/">Peter Druschel</a> and <a href="https://people.mpi-sws.org/~dg/">Deepak Garg</a>. So it probably goes without saying, but I'm broadly interested in distributed systems, mobile systems, and security and privacy. In particular, I enjoy designing, building, and analyzing <b>secure</b> and <b>privacy-preserving distributed systems</b>.
+I work in the Distributed Systems and Security & Privacy groups, where I am co-advised by <a href="https://people.mpi-sws.org/~druschel/">Peter Druschel</a> and <a href="https://people.mpi-sws.org/~dg/">Deepak Garg</a>. I am broadly interested in designing, building, and analyzing <b>secure</b> and <b>privacy-preserving distributed systems</b>. In particular, I am studying cryptographic techniques that run computation on sensitive private data; my research focus is to apply these techniques to real-world large-scale distributed systems, and to explore the consequent trade-offs between security, efficiency, and functionality.
 
-Recently, I have been working on a secure selective analytics (SSA) platform with applications in the interest of the public good. This platform is <i>secure</i> under a strong threat model that leverages Multi-Party Computation (MPC) to place trust on a set of independent Trusted Execution Environments. This platform is <i>selective</i> as it allows data sources to a priori restrict the use of their sensitive data to a pre-defined set of queries, run by specific analysts, and for a limited period. Currently, I am working on extending its use cases to support practical MPC-based ML training over very large sensitive datasets under the same threat model.
+Recently, I have been working on a secure selective analytics (SSA) platform. This platform is <i>secure</i> under a strong threat model that leverages <b>Multi-Party Computation (MPC)</b> to place trust on a set of independent <b>Trusted Execution Environments</b>. This platform is <i>selective</i> as it allows data sources to a priori restrict the use of their sensitive data to a pre-defined set of queries, run by specific analysts, and for a limited period. Currently, I am working on extending its use cases to support <i>practical</i> MPC-based ML training over very large sensitive datasets under the same threat model.
 
-At the beginning of my PhD, I explored different areas such as network side channels and secure mobile systems: I collaborated on <a href="https://www.usenix.org/system/files/sec22-mehta.pdf">Pacer</a>, a project aimed to ensure data privacy in Cloud services against network side-channel leaks, and <a href="https://dl.acm.org/doi/pdf/10.1145/3307334.3326101">enClosure</a>, a project on secure and private communication enabled by chains of mobile encounters. To continue the latter, I'm also working on a project that employs secure mobile encounters in a location-proof service, in order to mitigate the issue of fake online reviews.
+Previously, I explored different areas such as network side channels and secure mobile systems: I worked on <a href="https://www.usenix.org/system/files/sec22-mehta.pdf">Pacer</a>, a project aimed to ensure data privacy in Cloud services against <b>network side-channel</b> leaks, and <a href="https://dl.acm.org/doi/pdf/10.1145/3307334.3326101">enClosure</a>, a project on secure and private communication enabled by chains of <b>mobile encounters</b>.
 
-Besides research, I'm quite enthusiastic about a bunch of things: traveling, cinema, books, comics, food, complaining, and complaining about food -- especially if claimed to be Italian. I also enjoy learning new things: right now I'm trying (and failing) to learn Deutsch!
+Besides research, I'm quite enthusiastic about a bunch of things: traveling, cinema, books, comics, guitar, food, complaining, and complaining about food -- especially if claimed to be Italian.
 </div>
