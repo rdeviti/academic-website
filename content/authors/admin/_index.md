@@ -22,9 +22,10 @@ bio: My research interests include (...)
 
 interests:
 - Security and Privacy
+- Distributed Systems
+- Confidential Computing
 - Applied Cryptography
 - Multi-Party Computation
-- Distributed Systems
 - Mobile Systems
 
 education:

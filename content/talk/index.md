@@ -5,6 +5,8 @@ title: CoVault - A Secure Analytics Platform
 #event_url: http://css.csail.mit.edu/security-seminar/details.html#Jun2823
 
 locations: 
+- location: (upcoming) University of Oxford, Oxford, UK
+  date: '2023-11-16'
 - location: (upcoming) Imperial College London, London, UK
   date: '2023-11-13'
 - location: Harvard University, Cambridge, MA, US

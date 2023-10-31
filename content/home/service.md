@@ -83,26 +83,30 @@ design:
 
 <h3 style="margin-left:-0.65cm; margin-top:2em">External Reviewer</h3>
   <ul style="margin-top:1.5em">
-  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-1cm"></i>
+  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2.0em"></i>
+  <a href="https://www.usenix.org/conference/atc24">2024 USENIX Annual Technical Conference (ATC)</a>
+  <i style="margin-left:0.7em">upcoming</i>
+  <ul style="margin-top:0.3em">
+  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-4.2em"></i>
   <a href="https://www.usenix.org/conference/usenixsecurity23">32nd USENIX Security Symposium (2023)</a>
   <i style="margin-left:0.7em"></i>
   <ul style="margin-top:0.3em">
-  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2.1cm"></i>
+  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-6.4em"></i>
   <a href="https://www.ieee-security.org/TC/SP2023/index.html">44th IEEE Symposium on Security & Privacy (2023)</a>
   <i style="margin-left:0.7em"></i>
   </ul><ul style="margin-top:0.3em">
-  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2.1cm"></i>
+  <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-6.4em"></i>
   <a href="https://www.usenix.org/conference/usenixsecurity22">31st USENIX Security Symposium (2022)</a>
   </ul>
 
-<h3 style="margin-left:-2.55em; margin-top:2em">Blog Posts</h3>
-  <ul style="margin-top:1.5em; margin-left:-4em;">
+<h3 style="margin-left:-4.5em; margin-top:2em">Blog Posts</h3>
+  <ul style="margin-top:1.5em; margin-left:-6em;">
   <i class="fas fa-pen" style="margin-right:0.5em"></i>
   <i>Aug 14, 2023</i>
   <b style="margin-left:0.4em"><a href="https://www.sigops.org/2023/artifact-evaluation-theory-and-practice/">SIGOPS - Artifact evaluation, theory and practice</a></b>
   <p><i>by Roberta De Viti, Solal Pirelli, and Vaastav Anand</i/p>
   </ul>
-  <ul style="margin-left:-4em;">
+  <ul style="margin-left:-6em;">
   <i class="fas fa-pen" style="margin-right:0.5em"></i>
   <i>Jul 18, 2023</i>
   <b style="margin-left:0.4em"><a href="https://www.sigops.org/2023/systems-trivia-behind-the-scenes/">SIGOPS - Systems Trivia: Behind The Scenes</a></b>
