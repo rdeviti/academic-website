@@ -5,9 +5,9 @@ title: CoVault - A Secure Analytics Platform
 #event_url: http://css.csail.mit.edu/security-seminar/details.html#Jun2823
 
 locations: 
-- location: (upcoming) University of Oxford, Oxford, UK
+- location: University of Oxford, Oxford, UK
   date: '2023-11-16'
-- location: (upcoming) Imperial College London, London, UK
+- location: Imperial College London, London, UK
   date: '2023-11-13'
 - location: Harvard University, Cambridge, MA, US
   date: '2023-07-05'
@@ -19,13 +19,6 @@ locations:
   date: '2023-06-26'
 - location: ETH Zürich, Zürich, CH
   date: '2022-09-22'
-
-#address:
-#  street: 32 Vassar Street
-#  city: Cambridge
-#  region: MA
-#  postcode: '02139'
-#  country: United States
 
 summary: 
 abstract: 'Many types of analytics on personal data can be made differentially private, thus alleviating concerns about the privacy of individuals. However, no analytics platform currently exists that can technically prevent data leakage and misuse with minimal trust assumptions; as a result, analytics that would be in the public interest are not done in privacy-conscious societies. To bridge this gap, we present secure selective analytics (SSA), where data sources can a priori restrict the use of their data to a pre-defined set of privacy-preserving analytics queries performed by a specific group of analysts, and for a limited period. Furthermore, we show that a scalable SSA platform can be built in a strong threat model based on minimal trust.
