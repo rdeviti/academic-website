@@ -9,4 +9,5 @@ abstract: "Under Submission -- The integrity of many location-based services dep
 ProLoc continuously aggregates time series of device locations from an ordinary location service as well as pairwise Bluetooth (BT) contacts recorded by user devices. Within a secure backend, ProLoc correlates this information. On demand, ProLoc provides a proof that a given device must have resided within a feasible region at a given time in the past, depending on the encounters the device had at the time. Moreover, by correlating data from many devices and leveraging trusted devices, ProLoc can mitigate powerful collusion attacks, involving even large numbers of fictitious devices and multiplicity attacks."
 featured: true
 publication: "Under submission"
+url_pdf : "https://rdeviti.netlify.app/publication/content/publication/de-viti-2022-proloc/proloc.pdf"
 ---
