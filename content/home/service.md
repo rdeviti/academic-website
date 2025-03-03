@@ -84,8 +84,8 @@ design:
 <h3 style="margin-left:-0.65cm; margin-top:2em">External Reviewer</h3>
   <ul style="margin-top:1.5em">
   <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-2.0em"></i>
-  <a href="https://www.usenix.org/conference/atc24">2024 USENIX Annual Technical Conference (ATC)</a>
-  <i style="margin-left:0.7em">upcoming</i>
+  <a href="https://www.sigsac.org/ccs/CCS2025/">2025 ACM Conference on Computer and Communications Security (CCS)</a>
+  <i style="margin-left:0.7em">ongoing</i>
   <ul style="margin-top:0.3em">
   <i class="fas fa-paper-plane" style="margin-right:0.5em; margin-left:-4.2em"></i>
   <a href="https://www.usenix.org/conference/usenixsecurity23">32nd USENIX Security Symposium (2023)</a>
