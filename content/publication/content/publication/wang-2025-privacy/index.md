@@ -1,7 +1,6 @@
 ---
 title: "The Role of Privacy Guarantees in Voluntary Donation of Private Data for Altruistic Goals"
-date: 2024-12-22
-publishDate: 2024-12-22T00:17:36.683822Z
+date: 2024-02-22
 authors: ["Ruizhe Wang", "Roberta De Viti", "Aarushi Dubey", "Elissa M. Redmiles"]
 publication_types: ["1"]
 publication_short : "NDSS '26"
