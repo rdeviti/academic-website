@@ -1,7 +1,7 @@
 ---
 title: "CoVault: Scalable, Secure Analytics of Personal Data"
-date: 2025-12-22
-publishDate: 2025-12-22T00:17:36.683822Z
+date: 2025-01-22
+publishDate: 2025-01-22T00:17:36.683822Z
 authors: ["Roberta De Viti", "Isaac Sheff", "Noemi Glaeser", "Baltasar Dinis", "Rodrigo Rodrigues", "Bobby Bhattacharjee", "Anwar Hithnawi", "Deepak Garg", "Peter Druschel"]
 publication_types: ["1"]
 publication_short : "Usenix Security '25"
