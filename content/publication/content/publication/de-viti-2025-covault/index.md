@@ -9,5 +9,6 @@ abstract: "Usenix Security 2025 -- There is growing awareness that the analysis 
 featured : true
 publication : "34th Usenix Security Symposium (Usenix Security '25)"
 url_pdf : "https://rdeviti.netlify.app/publication/content/publication/de-viti-2025-covault/covault.pdf"
+url_code : "https://github.com/rdeviti/covault"
 url_poster : "https://rdeviti.netlify.app/publication/content/publication/de-viti-2025-covault/covault_poster.pdf"
 ---
